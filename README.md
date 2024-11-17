@@ -34,3 +34,17 @@ Data Description
 - Total_Ct_Chng_Q4_Q1: Ratio of the total transaction count in 4th quarter and the total transaction count in the 1st quarter
 - Total_Amt_Chng_Q4_Q1: Ratio of the total transaction amount in 4th quarter and the total transaction amount in the 1st quarter
 - Avg_Utilization_Ratio: Represents how much of the available credit the customer spent- 
+
+
+
+### Table of contents
+- [Project Overview](#project-overview)
+- [Project Links](#project-links)
+- [Some Tools Used For The Project](#some-tools-used-for-the-project)
+- [Dataset](#dataset)
+- [Process](#process)
+- [Model Performance](#model-performance)
+- [Dashboard](#dashboard)
+- [Conclusion and Recommendation](#conclusion-and-recommendation)
+- [How to use this repository](#how-to-use-this-repository)
+- [Author](#author)
