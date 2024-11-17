@@ -45,7 +45,7 @@ Data Description
 - [Model Building - Oversampled data](#Model_Building_Oversampled_data)
 - [Model Building - Undersampled data](#Model_Building_Undersampled_data)
 - [Model Performance Improvement using Hyperparameter Tuning](#Model_Performance_Improvement_using_Hyperparameter_Tuning)
-- [Actionable Insights & Recommendations](#Actionable_Insights_&_Recommendations)
+- [Actionable Insights & Recommendations](#Actionable_Insights_and_Recommendations)
 
 
 ### Dataset
@@ -108,7 +108,7 @@ Data Description
 
 
 
-### Actionable_Insights_&_Recommendations
+### Actionable_Insights_and_Recommendations
 
 
 ##### Targeted Retention Strategies:
