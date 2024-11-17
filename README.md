@@ -1,4 +1,4 @@
-[BankChurners.csv](https://github.com/user-attachments/files/17790926/BankChurners.csv)# Credit_Card_Users_Churn_Prediction
+# Credit_Card_Users_Churn_Prediction
 
 
 ###  Description
@@ -39,7 +39,7 @@ Data Description
 
 ### Table of contents
 - [Project Overview](#Context)
-- [Dataset](#dataset)
+- [Dataset](#Dataset Used)
 - [Process](#process)
 - [Model Performance](#model-performance)
 - [Dashboard](#dashboard)
@@ -47,3 +47,7 @@ Data Description
 - [How to use this repository](#how-to-use-this-repository)
 - [Author](#author)
 
+
+### Dataset Used
+
+[BankChurners.csv](https://github.com/user-attachments/files/17790926/BankChurners.csv)
